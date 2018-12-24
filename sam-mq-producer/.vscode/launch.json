@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsoleApplication",
+            "request": "launch",
+            "mainClass": "io.nogada.sammqproducer.ConsoleApplication",
+            "projectName": "sam-mq-producer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainApplication",
+            "request": "launch",
+            "mainClass": "io.nogada.sammqproducer.MainApplication",
+            "projectName": "sam-mq-producer"
+        }
+    ]
+}

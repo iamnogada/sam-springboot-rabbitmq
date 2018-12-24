@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "sam-mq-producer",
+			"name": "sam-mq-producer"
+		},
+		{
+			"path": "sam-mq-consumer",
+			"name": "sam-mq-consumer"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "sam-k8s-rabbitmq"
+		}
+	]
+}
